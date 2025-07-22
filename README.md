@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Arnav Goyal  
 **Final-year CS student with a keyboard, caffeine, and curiosity wired for impact.**
 
-Email Me 👉 ✉️ **goyalagf@gmail.com** for Collaboration / Projects / or Just to Say Hi! 😊
+Email Me 👉 **goyalagf@gmail.com** for Collaboration / Projects / or Just to Say Hi! 😊
 
 <!-- Snake Game Repo View -->
 
